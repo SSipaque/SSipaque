@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SSipaque, better known as Stephannie by friends and family. 💚
-- 🎨 I am an artist who is aiming to work as a web developer/web designer.
+- 🎨 I am an artist who is studying to work as a web developer/web designer.
 - 📓 I am continuously learning and sharpening my skills, at the moment I am more interested in frontend coding for the web.
 
 <!---
