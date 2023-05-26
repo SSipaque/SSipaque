@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SSipaque, better known as Stephannie or Steph by friends and family.
-- 🎨 I am a web developer and web designer who is also an artist.
+- 🎨 I am a web developer and designer who is also an artist.
 - 📓 I am continuously learning and sharpening my skills, at the moment I am more interested in frontend web development.
 - 🌱 Fun fact: I am just getting into gardening! 
 
