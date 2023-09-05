@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SSipaque, better known as Stephannie or Steph by friends and family.
-- 🎨 I am a web developer and designer who is also an artist.
-- 📓 I am continuously learning and sharpening my skills, at the moment I am more interested in frontend web development.
-- 🌱 Fun fact: I am just getting into gardening! 
+- 🎨 I am a Creative Designer & Web Developer who is also an artist.
+- 📓 I am continuously learning and sharpening my skills, I am working on gaining more professional experience.
+- 🌱 Fun facts: I am just getting into gardening! I love Traveling and dogs!
 
 <h2>Tools & Skills</h2>
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
