@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Stephannie Sipaque, I am a Creative Designer & Web Developer who is also an artist 🎨.
 - 📓 I am continuously learning and sharpening my skills, I am working on gaining more professional experience.
 - 🌱 Fun facts: I am just getting into gardening! I love Traveling and dogs!
-- I have a preference for remote work including entry level full-time or part-time positions. 
+- I have a preference for remote work including entry level & Junior full-time or part-time positions. 
 
 <h2>Tools & Skills</h2>
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
